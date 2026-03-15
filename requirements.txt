@@ -1,5 +1,1 @@
-fastapi
-uvicorn
-torch
-numpy
-pytest
+fastapi\nuvicorn\ntorch\nnumpy\npytest\npydantic\n
